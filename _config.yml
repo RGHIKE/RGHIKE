@@ -1,6 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes 
 plugins: 
   - jekyll-remote-theme 
+  - jekyll-include-cache
 title: RGHIKE 
 description: Dedicated to RG backpacking trips, bushwhacks, and trailruns 
 url: "https://pucksly123.github.io" 
