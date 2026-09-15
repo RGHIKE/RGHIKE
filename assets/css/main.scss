@@ -11,11 +11,12 @@ body {
   background-repeat: no-repeat;
 }
 
-.page__content, .archive, .page, article.page, .page__inner-wrap {
+.initial-content {
   background-color: rgba(255, 255, 255, 0.9) !important;
   padding: 1em;
   border-radius: 6px;
 }
+
 .masthead {
   background-color: rgba(255, 255, 255, 0.9);
   margin-bottom: 0;
